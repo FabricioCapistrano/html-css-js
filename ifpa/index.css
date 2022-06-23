@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+body {
+    background-color: #1C77C3;
+    font-family: 'Alata', sans-serif;
+}
+#image{
+    display: block;
+    max-width: 100%;
+    align-items: center;
+}
+#title-1{
+    font-size: 70px;
+    margin-top: 5%;
+    text-align: center;
+    color: #FFFBFA;
+}
+img{
+    width: 400px;
+    margin-top: 1%;
+    border-radius: 150000px;
+}
+div{
+    text-align: center;
+    background-color: #FFFBFA;
+    border-radius: 50px;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+h1{
+    margin-top: 10%;
+    text-align: center;
+}
+h3{
+    margin-top: 10%;
+}
+p{
+    text-align: center;
+}
+ul{
+    text-align: justify;
+    margin: 0% 10% 10% 10%;
+}
+#tribute-link{
+    margin-bottom: 90%;
+}
